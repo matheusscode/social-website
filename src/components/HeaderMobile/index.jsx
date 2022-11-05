@@ -57,7 +57,7 @@ export default function HeaderMobile() {
               color="aliceblue"
               position="fixed"
               left="0%"
-              top="-6.5%"
+              top="-8%"
               maxW="70%"
               h="100vh"
             >
